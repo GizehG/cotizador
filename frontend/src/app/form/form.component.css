@@ -1,0 +1,38 @@
+.mat-form-field + .mat-form-field + .mat-label +.mat-select {
+    margin-left: 10px;
+    color: white;
+    width: 90px;
+    margin: 8px
+}
+.mat-hint{
+    font-size: 13px;
+}
+.form-container{
+    margin-top: 80px;
+    margin-left: 25%;
+    font-size: 18px;
+    width: 100%;
+    padding: 15px;
+}
+.buttons{
+    width: 100%;
+}
+.mat-raised-button{
+    margin: 8px;
+    padding: 5px;
+    font-size: 15px;
+    width: 200px;
+    font-size: 20px;
+}
+.mat-stroked-button{
+    margin: 8px;
+    padding: 5px;
+    font-size: 15px;
+    width: 200px;
+    font-size: 20px;
+}
+.mat-card{
+    width: 400px;
+    height: auto;
+    font-size: 20px;
+}
