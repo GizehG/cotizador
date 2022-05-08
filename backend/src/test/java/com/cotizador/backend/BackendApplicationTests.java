@@ -1,10 +1,10 @@
-package com.example.cotizadorBK;
+package com.cotizador.backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CotizadorBkApplicationTests {
+class BackendApplicationTests {
 
 	@Test
 	void contextLoads() {

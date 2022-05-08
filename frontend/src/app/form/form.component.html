@@ -48,11 +48,12 @@
         <mat-label>Largo</mat-label>
         <input matInput #input maxlength="10" placeholder="Largo">
     </mat-form-field>
+        <button mat-raised-button color="primary" (click)="Registrar()">Registrarme</button>
     <br>
     <br>
     <div class="buttons">
-        <button mat-raised-button color="primary">Calcular</button>
-        <button mat-stroked-button color="accent">Limpiar</button>
+        <button mat-raised-button color="primary" (click)="Calcular()">Calcular</button>
+        <button mat-stroked-button color="accent" (click)="Limpiar()">Limpiar</button>
     </div>
     <br>
     <div>
